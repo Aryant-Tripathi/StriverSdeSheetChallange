@@ -47,5 +47,5 @@ long long ayushGivesNinjatest(int days, int n, vector<int> arr)
     
     return ans;
     
-    
+  
 }
