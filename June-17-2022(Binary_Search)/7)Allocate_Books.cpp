@@ -20,12 +20,12 @@ bool IsPossible(vector<int>& arr, ll mid, int days)
     
     return true;
 }
-long long ayushGivesNinjatest(int days, int n, vector<int>&arr) 
-{   
+long long ayushGivesNinjatest(int days, int n, vector<int> arr) 
+{    
     // Write your code here.
     
     ll sum = 0;
-    for(int i = 0; i < n; i++) sum += arr[i];
+    for(int i = 0; i < arr.size(); i++) sum += (ll)arr[i];
     
     ll low = 0;
     ll high = sum;
