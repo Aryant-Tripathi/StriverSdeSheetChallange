@@ -6,7 +6,7 @@
 
 •Link for the Striver's SDE Sheet On CodeStudio: **https://www.codingninjas.com/codestudio/problem-lists**
 
-•This sheet contains all the solutions of questions present on **CodeStudio (Mentioned on Practice Link 1)**.
+•This repository contains all the solutions of questions present on **CodeStudio (Mentioned on Practice Link 1)**.
 
 •```For Leetcode solutions, see other Repository :)```
 
